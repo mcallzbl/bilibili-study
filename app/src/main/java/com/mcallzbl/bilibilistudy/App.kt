@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter
+package com.mcallzbl.bilibilistudy
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

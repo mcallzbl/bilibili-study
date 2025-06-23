@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter.ui.theme
+package com.mcallzbl.bilibilistudy.ui.theme
 
 import android.app.Activity
 import android.os.Build

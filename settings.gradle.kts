@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Android-starter"
+rootProject.name = "bilibili-study"
 include(":app")
  
